@@ -1,0 +1,4 @@
+#Thu Sep 22 16:05:34 ICT 2022
+base.0=C\:\\Users\\D E L L\\AndroidStudioProjects\\prototype_litbang\\build\\app\\intermediates\\dex\\release\\minifyReleaseWithR8\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
